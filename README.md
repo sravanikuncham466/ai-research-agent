@@ -32,3 +32,7 @@ User → Next.js UI → API Layer → Python Pipeline → MongoDB → LLM → St
 - Production debugging across pipeline stages
 
 ## 🐳 Deployment
+## 📌 Future Enhancements
+- RAG (Retrieval-Augmented Generation)
+- Multi-tenant support
+- Advanced caching
